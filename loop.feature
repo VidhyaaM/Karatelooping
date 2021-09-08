@@ -17,3 +17,4 @@ Scenario: looping with repeat function
 # generate a range of numbers as a json array
 * def foo = karate.range(4, 9)
 * match foo == [4, 5, 6, 7, 8, 9]
+
