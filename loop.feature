@@ -1,5 +1,5 @@
-Feature:
-Scenario: func
+Feature: looping feature
+Scenario: looping with repeat function
 * def fun = function(i){ return i * 2 }
 * def foo = karate.repeat(5, fun)
 * match foo == [0, 2, 4, 6, 8]
