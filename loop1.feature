@@ -1,4 +1,4 @@
-Feature: loop
+Feature: map, fliter key 
 Scenario: karate map operation
     * def fun = function(x){ return x * x }
     * def list = [1, 2, 3]
