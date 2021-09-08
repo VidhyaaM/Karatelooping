@@ -16,5 +16,5 @@ Feature: w3 school log in with multiple user id and pw
   Examples:
     | user                  | pw         |
     | vidhyaa@sequoiaat.com | Newuser123   |
-  	| vidhyaa1@sequoiaat.com | Newuser1234  |
+  	| vidhyaamanikumar.96@gmail.com | Newuser1234  |
   		
