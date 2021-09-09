@@ -47,6 +47,7 @@ Scenario: filterKeys
     * match response == karate.filterKeys(schema, response)
     * match karate.filterKeys(response, 'b', 'c') == { c: true }
     * match karate.filterKeys(response, ['a', 'b']) == { a: 'x' }
+    
 
 Scenario: merge
     * def foo = { a: 1 }
