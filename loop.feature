@@ -1,4 +1,5 @@
 Feature: looping feature
+
 Scenario: looping with repeat function
 * def fun = function(i){ return i * 2 }
 * def foo = karate.repeat(5, fun)
