@@ -55,3 +55,4 @@ Scenario Outline: using the optional ##() marker effectively with examples type-
     | John  | Smith | 20   | { name: { first: 'John', last: 'Smith' }, age: 20 } |
     | Jane  | Doe   |      | { name: { first: 'Jane', last: 'Doe' } }            |
     |       | Waldo |      | { name: { last: 'Waldo' } }                         |
+    
